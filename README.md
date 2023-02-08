@@ -10,11 +10,13 @@
 
 
 ## Up & Run the project
+<ul>
+  <li>Install Java 17 in your local machine</li>
+  <li>Install Maven in your local machine</li>
+  <li>Install PostgreSQL in local machine</li>
+  <li>Create DB in PostgreSQL as users</li>
+  <li>Install Postman to test APIS</li>
+  <li>Open the terminal, navigate to the root of the project, and execute mvn spring-boot:run or Use can install your favorite IDE may be intellij idea and you can run their as well</li>
+</ul>
 
-•	Install Java 17 in your local machine.
-•	Install Maven in your local machine.
-•	Install PostgreSQL in local machine.
-•	Create DB in PostgreSQL as users.
-•	Install Postman to test APIS.
-•	Open the terminal, navigate to the root of the project, and execute mvn spring-boot:run or Use can install your favorite IDE may be intellij idea and you can run their as well.
 
