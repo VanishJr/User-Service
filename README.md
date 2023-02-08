@@ -1,11 +1,6 @@
-# REST Application(User Service)
+# User Service
 
-## Features
-
-Add and track tasks
-Mark tasks as complete and earn points
-Shop feature to purchase relaxing products and services
-PostgreSQL database to store user data
+The REST Application provides a set of CRUD (Create, Read, Update, and Delete) operations for managing users. It allows users to register and login, update their profile and password, delete their account, retrieve a list of all users, and retrieve individual user details. 
 
 ## Tech Stack
 <ul>
@@ -14,7 +9,6 @@ PostgreSQL database to store user data
   <li>Maven as a build toom</li>
   <li>PostgreSQL local set up, username PostgreSQL and password as root</li>
 </ul>
-
 
 ## Up & Run the project
 <ul>
@@ -25,7 +19,6 @@ PostgreSQL database to store user data
   <li>Install Postman to test APIS</li>
   <li>Open the terminal, navigate to the root of the project, and execute mvn spring-boot:run or Use can install your favorite IDE may be intellij idea and you can run their as well</li>
 </ul>
-
 
 ## Additional Resources
 
