@@ -22,7 +22,7 @@ The REST Application provides a set of CRUD (Create, Read, Update, and Delete) o
 
 ## Additional Resources
 
-<a href="URL of the file">Documentation</a> available on GitHub for further information on the application and its features.
+<a href="https://github.com/VanishJr/User-Service/blob/main/Documentation.docx">Documentation</a> available on GitHub for further information on the application and its features.
 
 If you have any questions or encounter any issues, please don't hesitate to reach out.
 
